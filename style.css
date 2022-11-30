@@ -1,0 +1,183 @@
+body{
+    background: -webkit-linear-gradient(90deg,#c8d9eb,#338fc2,#c5e1ec); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c8d9eb,#338fc2,#c5e1ec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    margin: 0px !important;         
+    }
+nav{
+    background: -webkit-linear-gradient(45deg,#040d2c,#462a8b,#c505d6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#040d2c,#462a8b,#c505d6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    height: 100px!important;
+    width: 100%;
+    display: flex!important;
+    justify-content: space-between;
+    padding: 20px 0x;
+    border-bottom: 10px solid rgb(0, 0, 0);
+   
+}
+#clas li{
+
+    border-top: 1px solid black;
+    list-style: none;
+
+}
+
+#clas li p{
+
+    display: inline-block;
+    padding: 0px 10px;
+
+}
+
+.navigation{
+    padding-left: 40px;
+    padding-right: 40px;
+    list-style: none;
+    list-style-type: none;
+    display: inline-block;
+}
+.navigation li{
+    padding: 22px;
+    color: #262626;
+    text-decoration: none;
+    font-weight: 600;
+    display: inline-block;
+}
+.navigation a{
+    text-decoration: none;
+    color: #262626;
+}
+#introduction{
+    padding-top: 10px;
+    background: -webkit-linear-gradient(90deg,#262626,#232967,#2936c7,#7586e1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#262626,#232967,#2936c7,#7586e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.intr{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 8px;
+    padding-left: 20px;
+}
+.imgholder{
+justify-content: center;
+display: flex;
+width: 100%;
+}
+.img{
+    border-radius: 40px;
+    height: 100%;
+    width: 75%;    
+}
+.empha{
+    padding-top: 8px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+.border1{
+    width: 100%;
+    border: 10px;    
+padding: 20px 0x;
+border-bottom: 10px solid rgb(0, 0, 0);
+}
+#Team{
+    padding-top: 10px;
+    padding-bottom: 5px;
+    background: -webkit-linear-gradient(90deg,#edf2f4,#415a77,#0d1b2a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#edf2f4,#415a77,#0d1b2a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.a123{
+    object-fit: cover;
+    width: 575px;
+    height: 488px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius:40px;
+    display: inline-block;
+}
+
+.info{
+    display: inline-block;
+    position: absolute;
+    padding-top: 219px;
+    padding-left: 292px;
+    font-size: 26px;
+}
+.border2{
+    width: 100%;
+    border: 15px;    
+padding: 20px 0x;
+border-bottom: 10px solid rgb(0, 0, 0);
+}
+.link{
+    width: 1500px;
+    height: 750px;
+}
+
+hoc{
+    background: -webkit-linear-gradient(90deg,#edf2f4,#415a77,#0d1b2a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#edf2f4,#415a77,#0d1b2a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    justify-content: right;
+}
+
+#images{
+        justify-content: center;
+    display: flex;
+}
+#images img{
+    margin-right: 20px;
+    justify-content: center;
+    display: inline-block;
+}
+.A{
+    display: table;
+    border-radius: 40px;
+    width: 50%;
+    height: 50%;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+.B{
+    display: table;
+    border-radius: 40px;
+    width: 50%;
+    height: 50%;
+    margin-bottom: 20px;
+    
+}
+.video{
+    border-radius: 40px;
+    margin-left: 150px;
+    align-items: center;
+justify-content: center;
+display: flex;
+align-items: center;
+height: 75pc;
+margin-bottom: 10px;
+}
+#Website{
+    padding-top: 10px;
+    background: -webkit-linear-gradient(90deg,#7cc1de,#0c2054); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7cc1de,#0c2054); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.text{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+}
+.txt{
+    font-size: 2.5rem;
+    margin-bottom: 100px;
+}
+.text1{
+    margin-bottom: 5px;
+}
+.border{
+    width: 100%;
+    border: 10px;    
+padding: 20px 0x;
+border-bottom: 10px solid rgb(0, 0, 0);
+}
+.border3{
+    width: 100%;
+    border: 10px;    
+padding: 20px 0x;
+border-bottom: 10px solid rgb(0, 0, 0);
+}
+.fnpart{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: -webkit-linear-gradient(90deg,#1a3f69,#5076a1,#82a7d0,#5076a1,#1a3f69); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#1a3f69,#5076a1,#82a7d0,#5076a1,#1a3f69); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
